@@ -1,0 +1,16 @@
+{
+  "docstore": {
+    "c25a6f4a-a116-4661-98ca-4dc1b21e0b87": {
+      "user_id": "thamarai",
+      "data": "User named Harini",
+      "text_lemmatized": "user name harini",
+      "hash": "37f3af5e264fdb8fafbe2e4ca55942d5",
+      "created_at": "2026-06-04T16:03:50.997071+00:00",
+      "updated_at": "2026-06-04T16:03:50.997071+00:00",
+      "attributed_to": "user"
+    }
+  },
+  "index_to_id": {
+    "0": "c25a6f4a-a116-4661-98ca-4dc1b21e0b87"
+  }
+}

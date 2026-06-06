@@ -1,0 +1,26 @@
+{
+  "docstore": {
+    "cffe5421-6389-4263-a5d4-de4c4a5ad546": {
+      "user_id": "thamarai",
+      "data": "User named Harini is interested in UI/UX",
+      "text_lemmatized": "user name harini interested ui ux",
+      "hash": "6e37081ec8def501cd1f3a99174b7bff",
+      "created_at": "2026-06-04T16:21:37.019855+00:00",
+      "updated_at": "2026-06-04T16:21:37.019855+00:00",
+      "attributed_to": "user"
+    },
+    "5b1782de-c9fa-4e17-93bb-ab8f2f646aba": {
+      "user_id": "thamarai",
+      "data": "User named Harini does not have any additional information known about them",
+      "text_lemmatized": "user name harini additional information know",
+      "hash": "5209918af47e99bffee8cc3b1335f62e",
+      "created_at": "2026-06-04T16:53:15.691261+00:00",
+      "updated_at": "2026-06-04T16:53:15.691261+00:00",
+      "attributed_to": "assistant"
+    }
+  },
+  "index_to_id": {
+    "0": "cffe5421-6389-4263-a5d4-de4c4a5ad546",
+    "1": "5b1782de-c9fa-4e17-93bb-ab8f2f646aba"
+  }
+}

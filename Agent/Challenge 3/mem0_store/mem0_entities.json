@@ -1,0 +1,15 @@
+{
+  "docstore": {
+    "19d3344f-80c8-4469-a869-ed5466493bab": {
+      "data": "Harini",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "c25a6f4a-a116-4661-98ca-4dc1b21e0b87"
+      ],
+      "user_id": "thamarai"
+    }
+  },
+  "index_to_id": {
+    "0": "19d3344f-80c8-4469-a869-ed5466493bab"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "docstore": {
+    "4e876398-1cd1-4a3a-82ac-43a176bacf1c": {
+      "data": "Harini",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "5b1782de-c9fa-4e17-93bb-ab8f2f646aba",
+        "cffe5421-6389-4263-a5d4-de4c4a5ad546"
+      ],
+      "user_id": "thamarai"
+    },
+    "dbbff096-519c-474c-b292-bc2cf69a317b": {
+      "data": "Harini",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "5b1782de-c9fa-4e17-93bb-ab8f2f646aba"
+      ],
+      "user_id": "thamarai"
+    }
+  },
+  "index_to_id": {
+    "0": "4e876398-1cd1-4a3a-82ac-43a176bacf1c",
+    "1": "dbbff096-519c-474c-b292-bc2cf69a317b"
+  }
+}
